@@ -28,7 +28,7 @@ const Hero = () => {
 
                 <p className={styles.subtitle}>
                     SLOHM brings Olympus DAO mechanics to Bitcoin L1. Real backing, real staking,
-                    real (3,3) game theory — powered by OPNet smart contracts.
+                    real (3,3) game theory powered by OPNet smart contracts.
                 </p>
 
                 <div className={styles.actions}>
